@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\minutosApagar\minutosApagar\obj\Debug\minutosApagar.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\minutosApagar\minutosApagar\bin\Debug\minutosApagar.exe.config
+D:\DADOS\curson_cCharp\projeto\minutosApagar\minutosApagar\bin\Debug\minutosApagar.exe
+D:\DADOS\curson_cCharp\projeto\minutosApagar\minutosApagar\bin\Debug\minutosApagar.pdb
+D:\DADOS\curson_cCharp\projeto\minutosApagar\minutosApagar\obj\Debug\minutosApagar.exe
+D:\DADOS\curson_cCharp\projeto\minutosApagar\minutosApagar\obj\Debug\minutosApagar.pdb

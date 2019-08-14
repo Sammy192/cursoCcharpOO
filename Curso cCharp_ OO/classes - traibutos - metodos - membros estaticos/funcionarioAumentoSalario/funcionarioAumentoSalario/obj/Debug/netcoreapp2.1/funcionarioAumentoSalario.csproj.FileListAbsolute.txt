@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\bin\Debug\netcoreapp2.1\funcionarioAumentoSalario.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\bin\Debug\netcoreapp2.1\funcionarioAumentoSalario.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\bin\Debug\netcoreapp2.1\funcionarioAumentoSalario.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\bin\Debug\netcoreapp2.1\funcionarioAumentoSalario.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\bin\Debug\netcoreapp2.1\funcionarioAumentoSalario.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\obj\Debug\netcoreapp2.1\funcionarioAumentoSalario.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\obj\Debug\netcoreapp2.1\funcionarioAumentoSalario.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\obj\Debug\netcoreapp2.1\funcionarioAumentoSalario.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\obj\Debug\netcoreapp2.1\funcionarioAumentoSalario.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\obj\Debug\netcoreapp2.1\funcionarioAumentoSalario.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\funcionarioAumentoSalario\funcionarioAumentoSalario\obj\Debug\netcoreapp2.1\funcionarioAumentoSalario.pdb

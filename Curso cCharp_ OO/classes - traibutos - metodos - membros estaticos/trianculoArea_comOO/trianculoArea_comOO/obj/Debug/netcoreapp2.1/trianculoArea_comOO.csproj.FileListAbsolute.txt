@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\bin\Debug\netcoreapp2.1\trianculoArea_comOO.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\bin\Debug\netcoreapp2.1\trianculoArea_comOO.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\bin\Debug\netcoreapp2.1\trianculoArea_comOO.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\bin\Debug\netcoreapp2.1\trianculoArea_comOO.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\bin\Debug\netcoreapp2.1\trianculoArea_comOO.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\obj\Debug\netcoreapp2.1\trianculoArea_comOO.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\obj\Debug\netcoreapp2.1\trianculoArea_comOO.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\obj\Debug\netcoreapp2.1\trianculoArea_comOO.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\obj\Debug\netcoreapp2.1\trianculoArea_comOO.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\obj\Debug\netcoreapp2.1\trianculoArea_comOO.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\trianculoArea_comOO\trianculoArea_comOO\obj\Debug\netcoreapp2.1\trianculoArea_comOO.pdb

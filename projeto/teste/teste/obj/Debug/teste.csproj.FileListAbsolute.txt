@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\teste\teste\bin\Debug\teste.exe.config
+D:\DADOS\curson_cCharp\projeto\teste\teste\bin\Debug\teste.exe
+D:\DADOS\curson_cCharp\projeto\teste\teste\bin\Debug\teste.pdb
+D:\DADOS\curson_cCharp\projeto\teste\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\teste\teste\obj\Debug\teste.exe
+D:\DADOS\curson_cCharp\projeto\teste\teste\obj\Debug\teste.pdb

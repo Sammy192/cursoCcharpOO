@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\vendaComissao\vendaComissao\obj\Debug\vendaComissao.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\vendaComissao\vendaComissao\bin\Debug\vendaComissao.exe.config
+D:\DADOS\curson_cCharp\projeto\vendaComissao\vendaComissao\bin\Debug\vendaComissao.exe
+D:\DADOS\curson_cCharp\projeto\vendaComissao\vendaComissao\bin\Debug\vendaComissao.pdb
+D:\DADOS\curson_cCharp\projeto\vendaComissao\vendaComissao\obj\Debug\vendaComissao.exe
+D:\DADOS\curson_cCharp\projeto\vendaComissao\vendaComissao\obj\Debug\vendaComissao.pdb
+D:\DADOS\curson_cCharp\projeto\vendaComissao\vendaComissao\obj\Debug\vendaComissao.csprojAssemblyReference.cache

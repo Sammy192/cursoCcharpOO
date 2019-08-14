@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uri1060_qntosvalorespositivos", "uri1060_qntosvalorespositivos\uri1060_qntosvalorespositivos.csproj", "{8C81C3B8-33F5-45AC-8F2A-9604B9CACCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C81C3B8-33F5-45AC-8F2A-9604B9CACCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C81C3B8-33F5-45AC-8F2A-9604B9CACCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C81C3B8-33F5-45AC-8F2A-9604B9CACCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C81C3B8-33F5-45AC-8F2A-9604B9CACCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82792D8D-F90C-4AF9-A19A-ECA899A2CDD2}
+	EndGlobalSection
+EndGlobal

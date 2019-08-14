@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\salario\salario\bin\Debug\salario.exe.config
+D:\DADOS\curson_cCharp\projeto\salario\salario\bin\Debug\salario.exe
+D:\DADOS\curson_cCharp\projeto\salario\salario\bin\Debug\salario.pdb
+D:\DADOS\curson_cCharp\projeto\salario\salario\obj\Debug\salario.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\salario\salario\obj\Debug\salario.exe
+D:\DADOS\curson_cCharp\projeto\salario\salario\obj\Debug\salario.pdb

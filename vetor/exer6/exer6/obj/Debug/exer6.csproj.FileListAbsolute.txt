@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\vetor\exer6\exer6\obj\Debug\exer6.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\vetor\exer6\exer6\bin\Debug\exer6.exe.config
+D:\DADOS\curson_cCharp\vetor\exer6\exer6\bin\Debug\exer6.exe
+D:\DADOS\curson_cCharp\vetor\exer6\exer6\bin\Debug\exer6.pdb
+D:\DADOS\curson_cCharp\vetor\exer6\exer6\obj\Debug\exer6.exe
+D:\DADOS\curson_cCharp\vetor\exer6\exer6\obj\Debug\exer6.pdb

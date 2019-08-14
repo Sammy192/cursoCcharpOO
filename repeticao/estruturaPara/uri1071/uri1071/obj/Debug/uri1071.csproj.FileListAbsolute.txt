@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\repeticao\estruturaPara\uri1071\uri1071\bin\Debug\uri1071.exe.config
+D:\DADOS\curson_cCharp\repeticao\estruturaPara\uri1071\uri1071\bin\Debug\uri1071.exe
+D:\DADOS\curson_cCharp\repeticao\estruturaPara\uri1071\uri1071\bin\Debug\uri1071.pdb
+D:\DADOS\curson_cCharp\repeticao\estruturaPara\uri1071\uri1071\obj\Debug\uri1071.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\estruturaPara\uri1071\uri1071\obj\Debug\uri1071.exe
+D:\DADOS\curson_cCharp\repeticao\estruturaPara\uri1071\uri1071\obj\Debug\uri1071.pdb

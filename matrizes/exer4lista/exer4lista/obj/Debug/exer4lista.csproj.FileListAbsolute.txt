@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\matrizes\exer4lista\exer4lista\bin\Debug\exer4lista.exe.config
+D:\DADOS\curson_cCharp\matrizes\exer4lista\exer4lista\bin\Debug\exer4lista.exe
+D:\DADOS\curson_cCharp\matrizes\exer4lista\exer4lista\bin\Debug\exer4lista.pdb
+D:\DADOS\curson_cCharp\matrizes\exer4lista\exer4lista\obj\Debug\exer4lista.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\matrizes\exer4lista\exer4lista\obj\Debug\exer4lista.exe
+D:\DADOS\curson_cCharp\matrizes\exer4lista\exer4lista\obj\Debug\exer4lista.pdb

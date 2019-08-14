@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\menorNumerodetres\menorNumerodetres\bin\Debug\menorNumerodetres.exe.config
+D:\DADOS\curson_cCharp\projeto\menorNumerodetres\menorNumerodetres\bin\Debug\menorNumerodetres.exe
+D:\DADOS\curson_cCharp\projeto\menorNumerodetres\menorNumerodetres\bin\Debug\menorNumerodetres.pdb
+D:\DADOS\curson_cCharp\projeto\menorNumerodetres\menorNumerodetres\obj\Debug\menorNumerodetres.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\menorNumerodetres\menorNumerodetres\obj\Debug\menorNumerodetres.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\menorNumerodetres\menorNumerodetres\obj\Debug\menorNumerodetres.exe
+D:\DADOS\curson_cCharp\projeto\menorNumerodetres\menorNumerodetres\obj\Debug\menorNumerodetres.pdb

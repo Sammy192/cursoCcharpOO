@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\mediaGrupoIdades\mediaGrupoIdades\bin\Debug\mediaGrupoIdades.exe.config
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\mediaGrupoIdades\mediaGrupoIdades\bin\Debug\mediaGrupoIdades.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\mediaGrupoIdades\mediaGrupoIdades\bin\Debug\mediaGrupoIdades.pdb
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\mediaGrupoIdades\mediaGrupoIdades\obj\Debug\mediaGrupoIdades.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\mediaGrupoIdades\mediaGrupoIdades\obj\Debug\mediaGrupoIdades.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\mediaGrupoIdades\mediaGrupoIdades\obj\Debug\mediaGrupoIdades.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\mediaGrupoIdades\mediaGrupoIdades\obj\Debug\mediaGrupoIdades.pdb

@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\maiornumero\maiornumero\bin\Debug\maiornumero.exe.config
+D:\DADOS\curson_cCharp\projeto\maiornumero\maiornumero\bin\Debug\maiornumero.exe
+D:\DADOS\curson_cCharp\projeto\maiornumero\maiornumero\bin\Debug\maiornumero.pdb
+D:\DADOS\curson_cCharp\projeto\maiornumero\maiornumero\obj\Debug\maiornumero.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\maiornumero\maiornumero\obj\Debug\maiornumero.exe
+D:\DADOS\curson_cCharp\projeto\maiornumero\maiornumero\obj\Debug\maiornumero.pdb

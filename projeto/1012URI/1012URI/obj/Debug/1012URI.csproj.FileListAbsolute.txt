@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\1012URI\1012URI\bin\Debug\1012URI.exe.config
+D:\DADOS\curson_cCharp\projeto\1012URI\1012URI\bin\Debug\1012URI.exe
+D:\DADOS\curson_cCharp\projeto\1012URI\1012URI\bin\Debug\1012URI.pdb
+D:\DADOS\curson_cCharp\projeto\1012URI\1012URI\obj\Debug\1012URI.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\1012URI\1012URI\obj\Debug\1012URI.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\1012URI\1012URI\obj\Debug\1012URI.exe
+D:\DADOS\curson_cCharp\projeto\1012URI\1012URI\obj\Debug\1012URI.pdb

@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\bin\Debug\netcoreapp2.1\exerFixacaoContaBanco.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\bin\Debug\netcoreapp2.1\exerFixacaoContaBanco.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\bin\Debug\netcoreapp2.1\exerFixacaoContaBanco.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\bin\Debug\netcoreapp2.1\exerFixacaoContaBanco.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\bin\Debug\netcoreapp2.1\exerFixacaoContaBanco.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\obj\Debug\netcoreapp2.1\exerFixacaoContaBanco.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\obj\Debug\netcoreapp2.1\exerFixacaoContaBanco.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\obj\Debug\netcoreapp2.1\exerFixacaoContaBanco.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\obj\Debug\netcoreapp2.1\exerFixacaoContaBanco.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\obj\Debug\netcoreapp2.1\exerFixacaoContaBanco.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\exerFixacaoContaBanco\exerFixacaoContaBanco\obj\Debug\netcoreapp2.1\exerFixacaoContaBanco.pdb

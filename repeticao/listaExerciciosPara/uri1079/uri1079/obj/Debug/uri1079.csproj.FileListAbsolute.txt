@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1079\uri1079\bin\Debug\uri1079.exe.config
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1079\uri1079\bin\Debug\uri1079.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1079\uri1079\bin\Debug\uri1079.pdb
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1079\uri1079\obj\Debug\uri1079.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1079\uri1079\obj\Debug\uri1079.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1079\uri1079\obj\Debug\uri1079.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1079\uri1079\obj\Debug\uri1079.pdb

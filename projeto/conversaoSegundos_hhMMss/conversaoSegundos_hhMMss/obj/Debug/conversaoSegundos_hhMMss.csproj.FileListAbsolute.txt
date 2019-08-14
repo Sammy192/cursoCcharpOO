@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\conversaoSegundos_hhMMss\conversaoSegundos_hhMMss\bin\Debug\conversaoSegundos_hhMMss.exe.config
+D:\DADOS\curson_cCharp\projeto\conversaoSegundos_hhMMss\conversaoSegundos_hhMMss\bin\Debug\conversaoSegundos_hhMMss.exe
+D:\DADOS\curson_cCharp\projeto\conversaoSegundos_hhMMss\conversaoSegundos_hhMMss\bin\Debug\conversaoSegundos_hhMMss.pdb
+D:\DADOS\curson_cCharp\projeto\conversaoSegundos_hhMMss\conversaoSegundos_hhMMss\obj\Debug\conversaoSegundos_hhMMss.csprojResolveAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\conversaoSegundos_hhMMss\conversaoSegundos_hhMMss\obj\Debug\conversaoSegundos_hhMMss.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\conversaoSegundos_hhMMss\conversaoSegundos_hhMMss\obj\Debug\conversaoSegundos_hhMMss.exe
+D:\DADOS\curson_cCharp\projeto\conversaoSegundos_hhMMss\conversaoSegundos_hhMMss\obj\Debug\conversaoSegundos_hhMMss.pdb

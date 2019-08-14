@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\matrizes\exemplo2\exemplo2\bin\Debug\exemplo2.exe.config
+D:\DADOS\curson_cCharp\matrizes\exemplo2\exemplo2\bin\Debug\exemplo2.exe
+D:\DADOS\curson_cCharp\matrizes\exemplo2\exemplo2\bin\Debug\exemplo2.pdb
+D:\DADOS\curson_cCharp\matrizes\exemplo2\exemplo2\obj\Debug\exemplo2.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\matrizes\exemplo2\exemplo2\obj\Debug\exemplo2.exe
+D:\DADOS\curson_cCharp\matrizes\exemplo2\exemplo2\obj\Debug\exemplo2.pdb
+D:\DADOS\curson_cCharp\matrizes\exemplo2\exemplo2\obj\Debug\exemplo2.csprojAssemblyReference.cache

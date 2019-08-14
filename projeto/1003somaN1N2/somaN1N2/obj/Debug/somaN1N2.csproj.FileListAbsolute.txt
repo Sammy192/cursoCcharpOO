@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\somaN1N2\somaN1N2\obj\Debug\somaN1N2.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\somaN1N2\somaN1N2\bin\Debug\somaN1N2.exe.config
+D:\DADOS\curson_cCharp\projeto\somaN1N2\somaN1N2\bin\Debug\somaN1N2.exe
+D:\DADOS\curson_cCharp\projeto\somaN1N2\somaN1N2\bin\Debug\somaN1N2.pdb
+D:\DADOS\curson_cCharp\projeto\somaN1N2\somaN1N2\obj\Debug\somaN1N2.exe
+D:\DADOS\curson_cCharp\projeto\somaN1N2\somaN1N2\obj\Debug\somaN1N2.pdb

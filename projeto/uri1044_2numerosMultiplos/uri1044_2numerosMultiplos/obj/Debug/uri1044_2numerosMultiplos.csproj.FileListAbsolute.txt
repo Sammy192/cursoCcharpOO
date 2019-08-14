@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\uri1044_2numerosMultiplos\uri1044_2numerosMultiplos\bin\Debug\uri1044_2numerosMultiplos.exe.config
+D:\DADOS\curson_cCharp\projeto\uri1044_2numerosMultiplos\uri1044_2numerosMultiplos\bin\Debug\uri1044_2numerosMultiplos.exe
+D:\DADOS\curson_cCharp\projeto\uri1044_2numerosMultiplos\uri1044_2numerosMultiplos\bin\Debug\uri1044_2numerosMultiplos.pdb
+D:\DADOS\curson_cCharp\projeto\uri1044_2numerosMultiplos\uri1044_2numerosMultiplos\obj\Debug\uri1044_2numerosMultiplos.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\uri1044_2numerosMultiplos\uri1044_2numerosMultiplos\obj\Debug\uri1044_2numerosMultiplos.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\uri1044_2numerosMultiplos\uri1044_2numerosMultiplos\obj\Debug\uri1044_2numerosMultiplos.exe
+D:\DADOS\curson_cCharp\projeto\uri1044_2numerosMultiplos\uri1044_2numerosMultiplos\obj\Debug\uri1044_2numerosMultiplos.pdb

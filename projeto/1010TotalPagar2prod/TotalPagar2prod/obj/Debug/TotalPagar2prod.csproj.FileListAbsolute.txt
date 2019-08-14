@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\TotalPagar2prod\TotalPagar2prod\bin\Debug\TotalPagar2prod.exe.config
+D:\DADOS\curson_cCharp\projeto\TotalPagar2prod\TotalPagar2prod\bin\Debug\TotalPagar2prod.exe
+D:\DADOS\curson_cCharp\projeto\TotalPagar2prod\TotalPagar2prod\bin\Debug\TotalPagar2prod.pdb
+D:\DADOS\curson_cCharp\projeto\TotalPagar2prod\TotalPagar2prod\obj\Debug\TotalPagar2prod.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\TotalPagar2prod\TotalPagar2prod\obj\Debug\TotalPagar2prod.exe
+D:\DADOS\curson_cCharp\projeto\TotalPagar2prod\TotalPagar2prod\obj\Debug\TotalPagar2prod.pdb

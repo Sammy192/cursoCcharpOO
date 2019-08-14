@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\volumeEsfera\volumeEsfera\bin\Debug\volumeEsfera.exe.config
+D:\DADOS\curson_cCharp\projeto\volumeEsfera\volumeEsfera\bin\Debug\volumeEsfera.exe
+D:\DADOS\curson_cCharp\projeto\volumeEsfera\volumeEsfera\bin\Debug\volumeEsfera.pdb
+D:\DADOS\curson_cCharp\projeto\volumeEsfera\volumeEsfera\obj\Debug\volumeEsfera.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\volumeEsfera\volumeEsfera\obj\Debug\volumeEsfera.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\volumeEsfera\volumeEsfera\obj\Debug\volumeEsfera.exe
+D:\DADOS\curson_cCharp\projeto\volumeEsfera\volumeEsfera\obj\Debug\volumeEsfera.pdb

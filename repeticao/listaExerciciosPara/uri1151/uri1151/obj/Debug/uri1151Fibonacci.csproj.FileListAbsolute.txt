@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1151\uri1151\bin\Debug\uri1151.exe.config
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1151\uri1151\bin\Debug\uri1151.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1151\uri1151\bin\Debug\uri1151.pdb
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1151\uri1151\obj\Debug\uri1151Fibonacci.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1151\uri1151\obj\Debug\uri1151.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1151\uri1151\obj\Debug\uri1151.pdb

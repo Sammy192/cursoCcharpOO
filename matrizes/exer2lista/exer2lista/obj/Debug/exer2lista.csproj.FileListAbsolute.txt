@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\matrizes\exer2lista\exer2lista\bin\Debug\exer2lista.exe.config
+D:\DADOS\curson_cCharp\matrizes\exer2lista\exer2lista\bin\Debug\exer2lista.exe
+D:\DADOS\curson_cCharp\matrizes\exer2lista\exer2lista\bin\Debug\exer2lista.pdb
+D:\DADOS\curson_cCharp\matrizes\exer2lista\exer2lista\obj\Debug\exer2lista.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\matrizes\exer2lista\exer2lista\obj\Debug\exer2lista.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\matrizes\exer2lista\exer2lista\obj\Debug\exer2lista.exe
+D:\DADOS\curson_cCharp\matrizes\exer2lista\exer2lista\obj\Debug\exer2lista.pdb

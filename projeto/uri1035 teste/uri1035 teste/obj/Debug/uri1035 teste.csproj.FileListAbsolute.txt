@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\uri1035 teste\uri1035 teste\bin\Debug\uri1035 teste.exe.config
+D:\DADOS\curson_cCharp\projeto\uri1035 teste\uri1035 teste\bin\Debug\uri1035 teste.exe
+D:\DADOS\curson_cCharp\projeto\uri1035 teste\uri1035 teste\bin\Debug\uri1035 teste.pdb
+D:\DADOS\curson_cCharp\projeto\uri1035 teste\uri1035 teste\obj\Debug\uri1035 teste.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\uri1035 teste\uri1035 teste\obj\Debug\uri1035 teste.exe
+D:\DADOS\curson_cCharp\projeto\uri1035 teste\uri1035 teste\obj\Debug\uri1035 teste.pdb

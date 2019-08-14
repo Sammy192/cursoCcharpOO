@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\bin\Debug\netcoreapp2.1\alunoNotas.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\bin\Debug\netcoreapp2.1\alunoNotas.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\bin\Debug\netcoreapp2.1\alunoNotas.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\bin\Debug\netcoreapp2.1\alunoNotas.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\bin\Debug\netcoreapp2.1\alunoNotas.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\obj\Debug\netcoreapp2.1\alunoNotas.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\obj\Debug\netcoreapp2.1\alunoNotas.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\obj\Debug\netcoreapp2.1\alunoNotas.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\obj\Debug\netcoreapp2.1\alunoNotas.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\obj\Debug\netcoreapp2.1\alunoNotas.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\alunoNotas\alunoNotas\obj\Debug\netcoreapp2.1\alunoNotas.pdb

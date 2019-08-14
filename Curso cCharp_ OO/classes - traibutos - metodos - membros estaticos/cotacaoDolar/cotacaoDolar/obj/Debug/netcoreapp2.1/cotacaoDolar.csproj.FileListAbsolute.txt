@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\cotacaoDolar\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.pdb

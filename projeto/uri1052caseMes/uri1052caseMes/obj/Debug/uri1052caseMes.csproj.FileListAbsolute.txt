@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\uri1052caseMes\uri1052caseMes\bin\Debug\uri1052caseMes.exe.config
+D:\DADOS\curson_cCharp\projeto\uri1052caseMes\uri1052caseMes\bin\Debug\uri1052caseMes.exe
+D:\DADOS\curson_cCharp\projeto\uri1052caseMes\uri1052caseMes\bin\Debug\uri1052caseMes.pdb
+D:\DADOS\curson_cCharp\projeto\uri1052caseMes\uri1052caseMes\obj\Debug\uri1052caseMes.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\uri1052caseMes\uri1052caseMes\obj\Debug\uri1052caseMes.exe
+D:\DADOS\curson_cCharp\projeto\uri1052caseMes\uri1052caseMes\obj\Debug\uri1052caseMes.pdb

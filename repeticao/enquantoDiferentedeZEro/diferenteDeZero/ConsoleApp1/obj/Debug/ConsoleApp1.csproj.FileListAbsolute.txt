@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

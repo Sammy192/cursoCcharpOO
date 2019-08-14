@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\CasoEscolha_diaSemana\CasoEscolha_diaSemana\obj\Debug\CasoEscolha_diaSemana.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\CasoEscolha_diaSemana\CasoEscolha_diaSemana\obj\Debug\CasoEscolha_diaSemana.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\CasoEscolha_diaSemana\CasoEscolha_diaSemana\bin\Debug\CasoEscolha_diaSemana.exe.config
+D:\DADOS\curson_cCharp\projeto\CasoEscolha_diaSemana\CasoEscolha_diaSemana\bin\Debug\CasoEscolha_diaSemana.exe
+D:\DADOS\curson_cCharp\projeto\CasoEscolha_diaSemana\CasoEscolha_diaSemana\bin\Debug\CasoEscolha_diaSemana.pdb
+D:\DADOS\curson_cCharp\projeto\CasoEscolha_diaSemana\CasoEscolha_diaSemana\obj\Debug\CasoEscolha_diaSemana.exe
+D:\DADOS\curson_cCharp\projeto\CasoEscolha_diaSemana\CasoEscolha_diaSemana\obj\Debug\CasoEscolha_diaSemana.pdb

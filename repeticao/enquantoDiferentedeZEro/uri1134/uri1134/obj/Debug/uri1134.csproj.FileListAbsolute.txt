@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1134\uri1134\bin\Debug\uri1134.exe.config
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1134\uri1134\bin\Debug\uri1134.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1134\uri1134\bin\Debug\uri1134.pdb
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1134\uri1134\obj\Debug\uri1134.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1134\uri1134\obj\Debug\uri1134.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1134\uri1134\obj\Debug\uri1134.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1134\uri1134\obj\Debug\uri1134.pdb

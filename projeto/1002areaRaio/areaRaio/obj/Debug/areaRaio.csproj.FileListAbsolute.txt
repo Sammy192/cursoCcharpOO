@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\areaRaio\areaRaio\bin\Debug\areaRaio.exe.config
+D:\DADOS\curson_cCharp\projeto\areaRaio\areaRaio\bin\Debug\areaRaio.exe
+D:\DADOS\curson_cCharp\projeto\areaRaio\areaRaio\bin\Debug\areaRaio.pdb
+D:\DADOS\curson_cCharp\projeto\areaRaio\areaRaio\obj\Debug\areaRaio.csprojResolveAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\areaRaio\areaRaio\obj\Debug\areaRaio.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\areaRaio\areaRaio\obj\Debug\areaRaio.exe
+D:\DADOS\curson_cCharp\projeto\areaRaio\areaRaio\obj\Debug\areaRaio.pdb

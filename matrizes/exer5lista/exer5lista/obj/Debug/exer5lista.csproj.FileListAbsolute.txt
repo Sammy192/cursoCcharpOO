@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\matrizes\exer5lista\exer5lista\bin\Debug\exer5lista.exe.config
+D:\DADOS\curson_cCharp\matrizes\exer5lista\exer5lista\bin\Debug\exer5lista.exe
+D:\DADOS\curson_cCharp\matrizes\exer5lista\exer5lista\bin\Debug\exer5lista.pdb
+D:\DADOS\curson_cCharp\matrizes\exer5lista\exer5lista\obj\Debug\exer5lista.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\matrizes\exer5lista\exer5lista\obj\Debug\exer5lista.exe
+D:\DADOS\curson_cCharp\matrizes\exer5lista\exer5lista\obj\Debug\exer5lista.pdb

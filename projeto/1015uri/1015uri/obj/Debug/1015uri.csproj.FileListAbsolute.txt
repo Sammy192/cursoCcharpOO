@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\1015uri\1015uri\bin\Debug\1015uri.exe.config
+D:\DADOS\curson_cCharp\projeto\1015uri\1015uri\bin\Debug\1015uri.exe
+D:\DADOS\curson_cCharp\projeto\1015uri\1015uri\bin\Debug\1015uri.pdb
+D:\DADOS\curson_cCharp\projeto\1015uri\1015uri\obj\Debug\1015uri.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\1015uri\1015uri\obj\Debug\1015uri.exe
+D:\DADOS\curson_cCharp\projeto\1015uri\1015uri\obj\Debug\1015uri.pdb

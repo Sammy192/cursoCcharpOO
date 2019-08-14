@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1080\uri1080\bin\Debug\uri1080.exe.config
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1080\uri1080\bin\Debug\uri1080.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1080\uri1080\bin\Debug\uri1080.pdb
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1080\uri1080\obj\Debug\uri1080.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1080\uri1080\obj\Debug\uri1080.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1080\uri1080\obj\Debug\uri1080.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1080\uri1080\obj\Debug\uri1080.pdb

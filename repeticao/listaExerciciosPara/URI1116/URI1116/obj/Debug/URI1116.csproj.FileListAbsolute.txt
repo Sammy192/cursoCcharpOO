@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\URI1116\URI1116\bin\Debug\URI1116.exe.config
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\URI1116\URI1116\bin\Debug\URI1116.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\URI1116\URI1116\bin\Debug\URI1116.pdb
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\URI1116\URI1116\obj\Debug\URI1116.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\URI1116\URI1116\obj\Debug\URI1116.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\URI1116\URI1116\obj\Debug\URI1116.pdb

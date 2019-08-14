@@ -1,0 +1,7 @@
+C:\Users\Samuel\source\repos\uri1117\uri1117\bin\Debug\uri1117.exe.config
+C:\Users\Samuel\source\repos\uri1117\uri1117\bin\Debug\uri1117.exe
+C:\Users\Samuel\source\repos\uri1117\uri1117\bin\Debug\uri1117.pdb
+C:\Users\Samuel\source\repos\uri1117\uri1117\obj\Debug\uri1117.csprojAssemblyReference.cache
+C:\Users\Samuel\source\repos\uri1117\uri1117\obj\Debug\uri1117.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\uri1117\uri1117\obj\Debug\uri1117.exe
+C:\Users\Samuel\source\repos\uri1117\uri1117\obj\Debug\uri1117.pdb

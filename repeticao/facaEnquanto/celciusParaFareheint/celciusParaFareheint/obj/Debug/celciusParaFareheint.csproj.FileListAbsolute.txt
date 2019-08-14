@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\facaEnquanto\celciusParaFareheint\celciusParaFareheint\bin\Debug\celciusParaFareheint.exe.config
+D:\DADOS\curson_cCharp\repeticao\facaEnquanto\celciusParaFareheint\celciusParaFareheint\bin\Debug\celciusParaFareheint.exe
+D:\DADOS\curson_cCharp\repeticao\facaEnquanto\celciusParaFareheint\celciusParaFareheint\bin\Debug\celciusParaFareheint.pdb
+D:\DADOS\curson_cCharp\repeticao\facaEnquanto\celciusParaFareheint\celciusParaFareheint\obj\Debug\celciusParaFareheint.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\repeticao\facaEnquanto\celciusParaFareheint\celciusParaFareheint\obj\Debug\celciusParaFareheint.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\facaEnquanto\celciusParaFareheint\celciusParaFareheint\obj\Debug\celciusParaFareheint.exe
+D:\DADOS\curson_cCharp\repeticao\facaEnquanto\celciusParaFareheint\celciusParaFareheint\obj\Debug\celciusParaFareheint.pdb

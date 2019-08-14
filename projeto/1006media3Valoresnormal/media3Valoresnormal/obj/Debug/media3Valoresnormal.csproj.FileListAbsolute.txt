@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\media3Valoresnormal\media3Valoresnormal\bin\Debug\media3Valoresnormal.exe.config
+D:\DADOS\curson_cCharp\projeto\media3Valoresnormal\media3Valoresnormal\bin\Debug\media3Valoresnormal.exe
+D:\DADOS\curson_cCharp\projeto\media3Valoresnormal\media3Valoresnormal\bin\Debug\media3Valoresnormal.pdb
+D:\DADOS\curson_cCharp\projeto\media3Valoresnormal\media3Valoresnormal\obj\Debug\media3Valoresnormal.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\media3Valoresnormal\media3Valoresnormal\obj\Debug\media3Valoresnormal.exe
+D:\DADOS\curson_cCharp\projeto\media3Valoresnormal\media3Valoresnormal\obj\Debug\media3Valoresnormal.pdb

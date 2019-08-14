@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\vetor\exer7\exer7\bin\Debug\exer7.exe.config
+D:\DADOS\curson_cCharp\vetor\exer7\exer7\bin\Debug\exer7.exe
+D:\DADOS\curson_cCharp\vetor\exer7\exer7\bin\Debug\exer7.pdb
+D:\DADOS\curson_cCharp\vetor\exer7\exer7\obj\Debug\exer7.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\vetor\exer7\exer7\obj\Debug\exer7.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\vetor\exer7\exer7\obj\Debug\exer7.exe
+D:\DADOS\curson_cCharp\vetor\exer7\exer7\obj\Debug\exer7.pdb

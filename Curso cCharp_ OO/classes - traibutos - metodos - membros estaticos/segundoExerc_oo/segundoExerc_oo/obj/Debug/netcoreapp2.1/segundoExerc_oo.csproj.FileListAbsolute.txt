@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\bin\Debug\netcoreapp2.1\segundoExerc_oo.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\bin\Debug\netcoreapp2.1\segundoExerc_oo.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\bin\Debug\netcoreapp2.1\segundoExerc_oo.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\bin\Debug\netcoreapp2.1\segundoExerc_oo.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\bin\Debug\netcoreapp2.1\segundoExerc_oo.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\obj\Debug\netcoreapp2.1\segundoExerc_oo.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\obj\Debug\netcoreapp2.1\segundoExerc_oo.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\obj\Debug\netcoreapp2.1\segundoExerc_oo.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\obj\Debug\netcoreapp2.1\segundoExerc_oo.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\obj\Debug\netcoreapp2.1\segundoExerc_oo.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\segundoExerc_oo\segundoExerc_oo\obj\Debug\netcoreapp2.1\segundoExerc_oo.pdb

@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1118\uri1118\bin\Debug\uri1118.exe.config
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1118\uri1118\bin\Debug\uri1118.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1118\uri1118\bin\Debug\uri1118.pdb
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1118\uri1118\obj\Debug\uri1118.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1118\uri1118\obj\Debug\uri1118.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1118\uri1118\obj\Debug\uri1118.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1118\uri1118\obj\Debug\uri1118.pdb

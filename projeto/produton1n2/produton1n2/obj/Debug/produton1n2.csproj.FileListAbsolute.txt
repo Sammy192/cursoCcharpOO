@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\produton1n2\produton1n2\bin\Debug\produton1n2.exe.config
+D:\DADOS\curson_cCharp\projeto\produton1n2\produton1n2\bin\Debug\produton1n2.exe
+D:\DADOS\curson_cCharp\projeto\produton1n2\produton1n2\bin\Debug\produton1n2.pdb
+D:\DADOS\curson_cCharp\projeto\produton1n2\produton1n2\obj\Debug\produton1n2.csprojResolveAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\produton1n2\produton1n2\obj\Debug\produton1n2.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\produton1n2\produton1n2\obj\Debug\produton1n2.exe
+D:\DADOS\curson_cCharp\projeto\produton1n2\produton1n2\obj\Debug\produton1n2.pdb

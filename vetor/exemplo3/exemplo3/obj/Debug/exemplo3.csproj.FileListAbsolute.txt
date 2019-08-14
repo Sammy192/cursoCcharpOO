@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\vetor\exemplo3\exemplo3\bin\Debug\exemplo3.exe.config
+D:\DADOS\curson_cCharp\vetor\exemplo3\exemplo3\bin\Debug\exemplo3.exe
+D:\DADOS\curson_cCharp\vetor\exemplo3\exemplo3\bin\Debug\exemplo3.pdb
+D:\DADOS\curson_cCharp\vetor\exemplo3\exemplo3\obj\Debug\exemplo3.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\vetor\exemplo3\exemplo3\obj\Debug\exemplo3.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\vetor\exemplo3\exemplo3\obj\Debug\exemplo3.exe
+D:\DADOS\curson_cCharp\vetor\exemplo3\exemplo3\obj\Debug\exemplo3.pdb

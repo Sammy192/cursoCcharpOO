@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1114\uri1114\bin\Debug\uri1114.exe.config
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1114\uri1114\bin\Debug\uri1114.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1114\uri1114\bin\Debug\uri1114.pdb
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1114\uri1114\obj\Debug\uri1114.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1114\uri1114\obj\Debug\uri1114.exe
+D:\DADOS\curson_cCharp\repeticao\enquantoDiferentedeZEro\uri1114\uri1114\obj\Debug\uri1114.pdb

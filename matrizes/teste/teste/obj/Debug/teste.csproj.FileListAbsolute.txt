@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\matrizes\teste\teste\bin\Debug\teste.exe.config
+D:\DADOS\curson_cCharp\matrizes\teste\teste\bin\Debug\teste.exe
+D:\DADOS\curson_cCharp\matrizes\teste\teste\bin\Debug\teste.pdb
+D:\DADOS\curson_cCharp\matrizes\teste\teste\obj\Debug\teste.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\matrizes\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\matrizes\teste\teste\obj\Debug\teste.exe
+D:\DADOS\curson_cCharp\matrizes\teste\teste\obj\Debug\teste.pdb

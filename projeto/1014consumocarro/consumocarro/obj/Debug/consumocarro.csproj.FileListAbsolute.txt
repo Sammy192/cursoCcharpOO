@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\consumocarro\consumocarro\obj\Debug\consumocarro.csprojResolveAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\consumocarro\consumocarro\obj\Debug\consumocarro.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\consumocarro\consumocarro\bin\Debug\consumocarro.exe.config
+D:\DADOS\curson_cCharp\projeto\consumocarro\consumocarro\bin\Debug\consumocarro.exe
+D:\DADOS\curson_cCharp\projeto\consumocarro\consumocarro\bin\Debug\consumocarro.pdb
+D:\DADOS\curson_cCharp\projeto\consumocarro\consumocarro\obj\Debug\consumocarro.exe
+D:\DADOS\curson_cCharp\projeto\consumocarro\consumocarro\obj\Debug\consumocarro.pdb

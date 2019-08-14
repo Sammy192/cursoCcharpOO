@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\DiferencaDoproduto\DiferencaDoproduto\bin\Debug\DiferencaDoproduto.exe.config
+D:\DADOS\curson_cCharp\projeto\DiferencaDoproduto\DiferencaDoproduto\bin\Debug\DiferencaDoproduto.exe
+D:\DADOS\curson_cCharp\projeto\DiferencaDoproduto\DiferencaDoproduto\bin\Debug\DiferencaDoproduto.pdb
+D:\DADOS\curson_cCharp\projeto\DiferencaDoproduto\DiferencaDoproduto\obj\Debug\DiferencaDoproduto.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\DiferencaDoproduto\DiferencaDoproduto\obj\Debug\DiferencaDoproduto.exe
+D:\DADOS\curson_cCharp\projeto\DiferencaDoproduto\DiferencaDoproduto\obj\Debug\DiferencaDoproduto.pdb

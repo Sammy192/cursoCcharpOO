@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1101\uri1101\bin\Debug\uri1101.exe.config
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1101\uri1101\bin\Debug\uri1101.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1101\uri1101\bin\Debug\uri1101.pdb
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1101\uri1101\obj\Debug\uri1101.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1101\uri1101\obj\Debug\uri1101.exe
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1101\uri1101\obj\Debug\uri1101.pdb
+D:\DADOS\curson_cCharp\repeticao\listaExerciciosPara\uri1101\uri1101\obj\Debug\uri1101.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\uri1045triagulos\uri1045triagulos\obj\Debug\uri1045triagulos.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\uri1045triagulos\uri1045triagulos\obj\Debug\uri1045triagulos.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\uri1045triagulos\uri1045triagulos\bin\Debug\uri1045triagulos.exe.config
+D:\DADOS\curson_cCharp\projeto\uri1045triagulos\uri1045triagulos\bin\Debug\uri1045triagulos.exe
+D:\DADOS\curson_cCharp\projeto\uri1045triagulos\uri1045triagulos\bin\Debug\uri1045triagulos.pdb
+D:\DADOS\curson_cCharp\projeto\uri1045triagulos\uri1045triagulos\obj\Debug\uri1045triagulos.exe
+D:\DADOS\curson_cCharp\projeto\uri1045triagulos\uri1045triagulos\obj\Debug\uri1045triagulos.pdb

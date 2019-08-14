@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\bin\Debug\netcoreapp2.1\produtoComPrecoEstoque.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\bin\Debug\netcoreapp2.1\produtoComPrecoEstoque.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\bin\Debug\netcoreapp2.1\produtoComPrecoEstoque.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\bin\Debug\netcoreapp2.1\produtoComPrecoEstoque.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\bin\Debug\netcoreapp2.1\produtoComPrecoEstoque.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\obj\Debug\netcoreapp2.1\produtoComPrecoEstoque.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\obj\Debug\netcoreapp2.1\produtoComPrecoEstoque.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\obj\Debug\netcoreapp2.1\produtoComPrecoEstoque.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\obj\Debug\netcoreapp2.1\produtoComPrecoEstoque.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\obj\Debug\netcoreapp2.1\produtoComPrecoEstoque.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\produtoComPrecoEstoque\produtoComPrecoEstoque\obj\Debug\netcoreapp2.1\produtoComPrecoEstoque.pdb

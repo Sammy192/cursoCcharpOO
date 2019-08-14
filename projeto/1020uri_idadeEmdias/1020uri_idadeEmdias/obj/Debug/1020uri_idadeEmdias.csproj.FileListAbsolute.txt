@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\1020uri_idadeEmdias\1020uri_idadeEmdias\bin\Debug\1020uri_idadeEmdias.exe.config
+D:\DADOS\curson_cCharp\projeto\1020uri_idadeEmdias\1020uri_idadeEmdias\bin\Debug\1020uri_idadeEmdias.exe
+D:\DADOS\curson_cCharp\projeto\1020uri_idadeEmdias\1020uri_idadeEmdias\bin\Debug\1020uri_idadeEmdias.pdb
+D:\DADOS\curson_cCharp\projeto\1020uri_idadeEmdias\1020uri_idadeEmdias\obj\Debug\1020uri_idadeEmdias.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\1020uri_idadeEmdias\1020uri_idadeEmdias\obj\Debug\1020uri_idadeEmdias.exe
+D:\DADOS\curson_cCharp\projeto\1020uri_idadeEmdias\1020uri_idadeEmdias\obj\Debug\1020uri_idadeEmdias.pdb

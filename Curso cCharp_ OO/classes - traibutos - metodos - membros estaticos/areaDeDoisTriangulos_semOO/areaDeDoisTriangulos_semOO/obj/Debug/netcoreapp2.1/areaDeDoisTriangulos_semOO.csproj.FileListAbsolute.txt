@@ -1,0 +1,11 @@
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\bin\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.deps.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\bin\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.runtimeconfig.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\bin\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.runtimeconfig.dev.json
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\bin\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\bin\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.pdb
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\obj\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\obj\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\obj\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.AssemblyInfoInputs.cache
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\obj\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.AssemblyInfo.cs
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\obj\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.dll
+D:\DADOS\curson_cCharp\Curso cCharp_ OO\classes - traibutos - metodos - membros estaticos\areaDeDoisTriangulos_semOO\areaDeDoisTriangulos_semOO\obj\Debug\netcoreapp2.1\areaDeDoisTriangulos_semOO.pdb

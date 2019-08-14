@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\uri1042\uri1042\bin\Debug\uri1042.exe.config
+D:\DADOS\curson_cCharp\projeto\uri1042\uri1042\bin\Debug\uri1042.exe
+D:\DADOS\curson_cCharp\projeto\uri1042\uri1042\bin\Debug\uri1042.pdb
+D:\DADOS\curson_cCharp\projeto\uri1042\uri1042\obj\Debug\uri1042.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\uri1042\uri1042\obj\Debug\uri1042.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\uri1042\uri1042\obj\Debug\uri1042.exe
+D:\DADOS\curson_cCharp\projeto\uri1042\uri1042\obj\Debug\uri1042.pdb

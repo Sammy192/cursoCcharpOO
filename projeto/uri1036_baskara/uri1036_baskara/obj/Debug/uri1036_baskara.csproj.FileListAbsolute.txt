@@ -1,0 +1,6 @@
+D:\DADOS\curson_cCharp\projeto\uri1036_baskara\uri1036_baskara\bin\Debug\uri1036_baskara.exe.config
+D:\DADOS\curson_cCharp\projeto\uri1036_baskara\uri1036_baskara\bin\Debug\uri1036_baskara.exe
+D:\DADOS\curson_cCharp\projeto\uri1036_baskara\uri1036_baskara\bin\Debug\uri1036_baskara.pdb
+D:\DADOS\curson_cCharp\projeto\uri1036_baskara\uri1036_baskara\obj\Debug\uri1036_baskara.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\uri1036_baskara\uri1036_baskara\obj\Debug\uri1036_baskara.exe
+D:\DADOS\curson_cCharp\projeto\uri1036_baskara\uri1036_baskara\obj\Debug\uri1036_baskara.pdb

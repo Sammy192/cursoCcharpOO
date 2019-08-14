@@ -1,0 +1,7 @@
+D:\DADOS\curson_cCharp\projeto\uri1043\uri1043\obj\Debug\uri1043.csprojAssemblyReference.cache
+D:\DADOS\curson_cCharp\projeto\uri1043\uri1043\obj\Debug\uri1043.csproj.CoreCompileInputs.cache
+D:\DADOS\curson_cCharp\projeto\uri1043\uri1043\bin\Debug\uri1043.exe.config
+D:\DADOS\curson_cCharp\projeto\uri1043\uri1043\bin\Debug\uri1043.exe
+D:\DADOS\curson_cCharp\projeto\uri1043\uri1043\bin\Debug\uri1043.pdb
+D:\DADOS\curson_cCharp\projeto\uri1043\uri1043\obj\Debug\uri1043.exe
+D:\DADOS\curson_cCharp\projeto\uri1043\uri1043\obj\Debug\uri1043.pdb
