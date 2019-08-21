@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figura", "Figura\Figura.csproj", "{A90FF52E-A93B-4582-AD85-7B34AE8D9A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90FF52E-A93B-4582-AD85-7B34AE8D9A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90FF52E-A93B-4582-AD85-7B34AE8D9A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90FF52E-A93B-4582-AD85-7B34AE8D9A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90FF52E-A93B-4582-AD85-7B34AE8D9A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEBB63EC-E4C2-4DF9-BFD1-741CFF1F7465}
+	EndGlobalSection
+EndGlobal
