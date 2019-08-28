@@ -1,0 +1,11 @@
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\bin\Debug\netcoreapp2.1\jogoXadres.deps.json
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\bin\Debug\netcoreapp2.1\jogoXadres.runtimeconfig.json
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\bin\Debug\netcoreapp2.1\jogoXadres.runtimeconfig.dev.json
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\bin\Debug\netcoreapp2.1\jogoXadres.dll
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\bin\Debug\netcoreapp2.1\jogoXadres.pdb
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\obj\Debug\netcoreapp2.1\jogoXadres.csprojAssemblyReference.cache
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\obj\Debug\netcoreapp2.1\jogoXadres.csproj.CoreCompileInputs.cache
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\obj\Debug\netcoreapp2.1\jogoXadres.AssemblyInfoInputs.cache
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\obj\Debug\netcoreapp2.1\jogoXadres.AssemblyInfo.cs
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\obj\Debug\netcoreapp2.1\jogoXadres.dll
+D:\DADOS\Google_DRIVE\curson_cCharp\Curso cCharp_ OO\secao 12 jogoXadres\jogoXadres\jogoXadres\obj\Debug\netcoreapp2.1\jogoXadres.pdb
