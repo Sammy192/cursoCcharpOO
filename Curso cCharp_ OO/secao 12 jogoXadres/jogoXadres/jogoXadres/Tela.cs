@@ -14,6 +14,9 @@ namespace jogoXadres {
             Console.WriteLine();
             Console.WriteLine("Turno: " + partida.turno);
             Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
+            if (partida.xeque) {
+                Console.WriteLine(" XEQUE! ");
+            }
         }
 
         public static void imprimirPecasCapturadas(PartidaDeXadrez partida) {
@@ -74,9 +77,6 @@ namespace jogoXadres {
             Console.WriteLine("  a b c d e f g h");
             Console.BackgroundColor = fundoOriginal;
         }
-
-
-
 
         public static PosicaoXadrez lerPosicaoXadrez () {
             string s = Console.ReadLine();
